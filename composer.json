@@ -1,0 +1,19 @@
+{
+    "name": "dell/version2",
+    "autoload": {
+        "psr-4": {
+             "Dell\\Version2\\": "src/",
+            "Router\\":"routes/",
+            "Controllers\\":"Controllers",
+            "App\\":"app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BedelThiombiano",
+            "email": "taambathiombiano@esp.sn"
+        }
+    ],
+
+    "require": {}
+}
